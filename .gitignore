@@ -140,3 +140,5 @@ cython_debug/
 
 /clustering/embedding/**
 .DS_Store
+
+/PyGoRTCmix/
