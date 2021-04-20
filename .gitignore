@@ -142,3 +142,5 @@ cython_debug/
 .DS_Store
 
 /PyGoRTCmix/
+
+sonification/pyGoRTcmix
